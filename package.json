@@ -1,0 +1,23 @@
+{
+  "name": "rn-buffer",
+  "version": "1.0.0",
+  "description": "Standalone nodejs buffer package, usable in react native.",
+  "main": "buffer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankbaiswar-CSE/rn-buffer.git"
+  },
+  "keywords": [
+    "buffer",
+    "react-native"
+  ],
+  "author": "Mayank Baiswar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayankbaiswar-CSE/rn-buffer/issues"
+  },
+  "homepage": "https://github.com/mayankbaiswar-CSE/rn-buffer#readme"
+}
